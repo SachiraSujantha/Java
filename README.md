@@ -1,2 +1,2 @@
 # Java
-One of my fisrt year java project
+One of my first year java project
